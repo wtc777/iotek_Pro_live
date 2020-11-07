@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>splashScreen.jpg</file>
+        <file>FBK.png</file>
+        <file>rocket.ico</file>
+        <file>image/冰阔落.png</file>
+        <file>image/666.png</file>
+        <file>image/递茶.png</file>
+        <file>image/rocket.png</file>
+        <file>image/gif/waiting.gif</file>
+    </qresource>
+</RCC>
